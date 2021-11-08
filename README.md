@@ -1,4 +1,4 @@
-DroidCafeInput
+TP3.1 - DroidCafeInput
 ==============================
 
 Question 1
@@ -16,4 +16,3 @@ Lequel des énoncés suivants définit le titre d'un dialogue d'alerte?:
 Question 4
 Où créez-vous un DialogFragment pour un sélecteur de date?:
 -Dans la méthode onCreateDialog() dans l'extension de DialogFragment.
-# tp3.1
